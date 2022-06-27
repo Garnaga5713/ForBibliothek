@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\bin\Debug\Program for Bibliothek.exe.config
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\bin\Debug\Program for Bibliothek.exe
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\bin\Debug\Program for Bibliothek.pdb
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program for Bibliothek.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program for Bibliothek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program_for_Bibliothek.Form1.resources
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program_for_Bibliothek.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program for Bibliothek.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program for Bibliothek.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program for Bibliothek.exe
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program for Bibliothek.pdb
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program_for_Bibliothek.Admin_ALL_Table_Form.resources
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program_for_Bibliothek.Admin_Panel.resources
+C:\Users\Lenovo\OneDrive\Робочий стіл\проект для гита 1\Program for Bibliothek\Program for Bibliothek\obj\Debug\Program_for_Bibliothek.Worker_Place.resources
